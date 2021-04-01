@@ -1,8 +1,8 @@
  body {
-      background-color:aquamarine;
+    background-image: linear-gradient(to right, rgb(189, 162, 162) , rgb(128, 243, 243));
  }
 
  h1 {
 
-    background-color: blue;
+    background-color: rgb(131, 156, 167);
  }
