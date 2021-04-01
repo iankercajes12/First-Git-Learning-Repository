@@ -1,8 +1,19 @@
  body {
-    background-image: linear-gradient(to right, rgb(189, 162, 162) , rgb(128, 243, 243));
+    background-image: linear-gradient(to right, rgb(167, 207, 180) , rgb(128, 243, 243));
  }
 
  h1 {
 
     background-color: rgb(131, 156, 167);
  }
+ .ml15 {
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+  }
+  
+  .ml15 .word {
+    display: inline-block;
+    line-height: 1em;
+  }
